@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/victorefrim/Documents/facial-recognition/build",
+  "command": "/opt/homebrew/bin/g++-11  -isystem /opt/homebrew/Cellar/opencv/4.5.5/include/opencv4 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -mmacosx-version-min=11.1 -std=gnu++11 -o CMakeFiles/facial-recognition.dir/src/main.cpp.o -c /Users/victorefrim/Documents/facial-recognition/src/main.cpp",
+  "file": "/Users/victorefrim/Documents/facial-recognition/src/main.cpp"
+}
+]

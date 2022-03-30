@@ -7,5 +7,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 set(CMAKE_OSX_ARCHITECTURES "arm64" CACHE INTERNAL "" FORCE)
 
 include_directories(${OpenCV_INCLUDE_DIRS})
-add_executable(facial-recognition main.cpp)
+add_executable(facial-recognition src/main.cpp)
 target_link_libraries(facial-recognition ${OpenCV_LIBS})
