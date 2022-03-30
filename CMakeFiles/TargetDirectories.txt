@@ -1,0 +1,3 @@
+/Users/victorefrim/Documents/facial-recognition/CMakeFiles/rebuild_cache.dir
+/Users/victorefrim/Documents/facial-recognition/CMakeFiles/edit_cache.dir
+/Users/victorefrim/Documents/facial-recognition/CMakeFiles/facial-recognition.dir
